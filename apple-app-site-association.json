@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "DNK4PWY36H.com.anaphoraradio.anaphora",
+                "paths": ["NOT /_/*","/*"]
+            }
+        ]
+    }
+}
